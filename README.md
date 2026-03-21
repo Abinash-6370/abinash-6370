@@ -1,4 +1,4 @@
-# abinash-6370
+
 <h1 align="center">🚀 Hey, I'm Abinash</h1>
 <h3 align="center">⚡ Building Ideas into Reality | Future AI Engineer</h3>
 
