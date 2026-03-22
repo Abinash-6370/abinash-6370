@@ -58,5 +58,5 @@
   ⭐ "Code. Learn. Build. Repeat." ⭐
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abinash-6370&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=abinash-6370&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </p>
