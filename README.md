@@ -25,13 +25,17 @@
 
 
 
----
-
-## 🛠️ Tech Stack
-<p align="center">
+--
   <!-- <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,flask,git,github" /> -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,python,java,mysql,flask,git,github" />
+  ## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,java,mysql,flask,git,github" /><br><br>
+  
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
 </p>
+
 
 ---
 
