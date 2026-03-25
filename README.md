@@ -59,8 +59,29 @@
 ---
 
 ## 📬 Let's Connect
-- 📧 Email: ommabinash6370@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/omm-abinash-barik-206003375?utm_source=share_via&utm_content=profile&utm_medium=member_android
+<p align="center">
+  
+  <a href="mailto:ommabinash6370@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+
+  <a href="https://www.linkedin.com/in/omm-abinash-barik-206003375">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://leetcode.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
+
+  <a href="YOUR_NDA_CHANNEL_LINK">
+    <img src="https://img.shields.io/badge/NDA%20Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+
+  <a href="https://oab-portfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=web&logoColor=white"/>
+  </a>
+
+</p>
 
 ---
 
