@@ -22,6 +22,9 @@
 
 🚀 My Portfolio:
 👉https://oab-portfolio.netlify.app/
+🚀Attendance_Calculator:
+👉https://attendance-iq.netlify.app/
+
 
 
 
