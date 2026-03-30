@@ -43,17 +43,18 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abinash-6370&theme=tokyonight" />
 </p>
 
---
-  <!-- <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,flask,git,github" /> -->
-  ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,java,mysql,flask,git,github" /><br><br>
-  
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black"/>
-</p>
+---
 
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,java,flask,mysql,git,github" />
+  <br><br>
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Matplotlib-ffffff?style=flat&logo=python&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+</p>
 
 ---
 ## 📈 Contribution Graph
