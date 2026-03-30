@@ -26,8 +26,22 @@
 🚀Attendance_Calculator:
 👉https://attendance-iq.netlify.app/
 
+---
+## 📊 GitHub Analytics
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinash-6370&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abinash-6370&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abinash-6370&theme=tokyonight&utcOffset=5.5" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abinash-6370&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abinash-6370&theme=tokyonight" />
+</p>
 
 --
   <!-- <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,flask,git,github" /> -->
