@@ -35,7 +35,7 @@
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abinash-6370&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abinash-6370&theme=tokyonight&utcOffset=5.5" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abinash-6370&theme=tokyonight&utcOffset=5&cache_seconds=86400" />
 </p>
 
 <p align="center">
