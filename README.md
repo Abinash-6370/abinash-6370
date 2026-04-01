@@ -69,7 +69,9 @@
 ---
 ## 📈 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinash-6370&theme=tokyo-night" />
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinash-6370&theme=tokyo-night&hide_border=true&area=true" />
+</p>
 </p>
 
 ## ⚡ Current Focus
