@@ -47,11 +47,11 @@
 
 ## 🛠️ Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,java,flask,django,fastapi,mysql,git,github,postman&perline=7" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,java,django,fastapi,flask,mysql,git,github,postman&perline=7" />
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,sklearn&titles=true" />
 </p>
 
 ---
