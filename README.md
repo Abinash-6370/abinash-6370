@@ -27,23 +27,6 @@
 👉https://attendance-iq.netlify.app/
 
 ---
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abinash-6370&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abinash-6370&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=abinash-6370&theme=tokyonight&utcOffset=5&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abinash-6370&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abinash-6370&theme=tokyonight" />
-</p>
-
----
 
 ## 🛠️ Tech Stack
 <p align="center">
