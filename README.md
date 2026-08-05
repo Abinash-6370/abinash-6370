@@ -34,7 +34,7 @@
 </p>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,matplotlib,seaborn,sklearn&titles=true" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scipy,matplotlib,seaborn,sklearn&titles=true" />
 </p>
 
 ---
