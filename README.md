@@ -52,11 +52,12 @@
       />
     </td>
     <td width="50%" align="center">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app/?user=Abinash-6370&theme=tokyonight&hide_border=true"
-        alt="GitHub Streak"
-        width="100%"
-      />
+    <p align="center">
+  <img
+    src="https://github-readme-streak-stats-eight.vercel.app/?user=Abinash-6370&theme=tokyonight&hide_border=true&mode=weekly"
+    alt="GitHub Streak"
+  />
+</p>
     </td>
   </tr>
 </table>
