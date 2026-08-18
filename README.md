@@ -39,11 +39,8 @@
 
 ---
 ## 📈 Contribution Graph
-<p align="center">
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abinash-6370&theme=tokyo-night&hide_border=true&area=true" />
-</p>
-</p>
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinash-6370&theme=tokyo-night&hide_border=true&area=true">
 
 <table align="center" width="100%">
   <tr>
