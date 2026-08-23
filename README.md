@@ -12,7 +12,7 @@
 - 🔥 Passionate about building **real-world projects**
 - 🌱 Currently diving deep into **AI, Machine Learning & Web Development**
 - 💡 Love solving problems & creating impactful solutions
-- 🎯 Goal: Become a **Top AI Developer in 6 months**
+- 🎯 Goal: Become a **Top AI Developer in 6 months..**
 
 ---
 
