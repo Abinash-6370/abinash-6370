@@ -26,6 +26,10 @@
 🚀Attendance_Calculator:
 👉https://attendance-iq.netlify.app/
 
+🚀Mental Health Score Predictor:
+👉https://mental-health-score-predict-d97k.onrender.com/
+
+
 ---
 
 ## 🛠️ Tech Stack
