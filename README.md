@@ -54,19 +54,17 @@
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40">
   Github Stats :
 </h2>
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Abinash-6370&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abinash-6370&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
 
 <div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinash-6370&theme=tokyonight&hide_border=true" width="70%" />
+</div>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Abinash-6370&theme=2077" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Abinash-6370&theme=2077" height="170"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abinash-6370&hide_border=true&background=0d001a&ring=fb923c&fire=f97316&currStreakLabel=fb923c&sideLabels=D85A30&dates=e9d5ff&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
-
-<br/><br/>
-
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abinash-6370&theme=react-dark&hide_border=true" width="90%" />
 </div>
 
 
