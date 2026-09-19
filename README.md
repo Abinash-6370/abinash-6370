@@ -1,5 +1,5 @@
 
-<h1 align="center">🚀 Hey, I'm Abinash</h1>
+<h1 align="center">🚀 Hey, I'm Abhinash</h1>
 <h3 align="center">⚡ Building Ideas into Reality | Future AI Engineer | FullStack Developer</h3>
 
 <p align="center">
@@ -42,7 +42,7 @@
 </p>
 
 ---
-## 📈 Contribution Graph
+
 <h2 align="center">📊 My GitHub Contributions</h2>
 
 <p align="center">
