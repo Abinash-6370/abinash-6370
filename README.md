@@ -43,11 +43,15 @@
 
 ---
 ## 📈 Contribution Graph
+<h2 align="center">📊 My GitHub Contributions</h2>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%">
+  <img
+    src="./profile-3d-contrib/profile-green-animate.svg"
+    width="100%"
+    alt="3D GitHub Contribution Graph"
+  />
 </p>
-<!-- <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />  -->
 
 <h2>
   <a id="github-stats"></a>
