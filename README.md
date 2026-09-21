@@ -31,14 +31,18 @@
 
 
 ---
-
 ## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,python,java,django,fastapi,flask,mysql,postgres,sqlite,git,github,postman&perline=7" />
-</p>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,java,django,fastapi,flask&perline=7" />
+  <img src="https://cdn.simpleicons.org/streamlit" height="48" alt="Streamlit" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=7" />
+  <img src="https://cdn.simpleicons.org/supabase" height="48" alt="Supabase" />
+  <br></br>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=numpy,pandas,scipy,matplotlib,seaborn,sklearn&titles=true" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,postman&perline=7" />
 </p>
 
 ---
